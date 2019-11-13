@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+Version 1.2.2 *(2019-11-13)*
+----------------------------
+
+ * Prevent execution on synthetic constructors of annotated classes.
+ * Add extension to disable logging
+ * Add tracer when available.
+ * Add support for building on Windows platforms.
+
 Version 1.2.1 *(2015-02-17)*
 ----------------------------
 
